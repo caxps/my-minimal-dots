@@ -3,7 +3,7 @@
 -------------------------------------------------------
 Meine sehr minimale Hyprland Config
 -------------------------------------------------------
-Wichtige Keybinds:
+*Wichtige Keybinds:*
 
 Fenster schließen : Super + Q
 

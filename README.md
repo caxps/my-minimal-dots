@@ -6,8 +6,12 @@ Meine sehr minimale Hyprland Config
 Wichtige Keybinds:
 
 Fenster schließen : Super + Q
+
 Rofi : Super + D
+
 Terminal (Kitty) : Super + Return
+
 Powermenu : Super + X
+
 Screenshot : Super + Shift + S
 
